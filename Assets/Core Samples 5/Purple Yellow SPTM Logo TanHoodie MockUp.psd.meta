@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 9fae5beb1a68e0f4da227552d1719776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6571289276539762004
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_0
+  - first:
+      213: -3207570015791318593
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_1
+  - first:
+      213: 6244835424611463459
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_2
+  - first:
+      213: 2039348044057910205
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_3
+  - first:
+      213: -330858705890640880
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_4
+  - first:
+      213: -3682729216795544843
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_5
+  - first:
+      213: 8840142441952624335
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_6
+  - first:
+      213: -1395314995643039152
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_7
+  - first:
+      213: 6257316975870297319
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_8
+  - first:
+      213: -8147045866153941570
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_9
+  - first:
+      213: -7033556739451203718
+    second: Purple Yellow SPTM Logo TanHoodie MockUp_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1334
+        width: 394
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa838b18371ec4a0800000000000000
+      internalID: -6571289276539762004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 946
+        width: 430
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97098a01c6c73d0800000000000000
+      internalID: -3207570015791318593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_2
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 939
+        width: 427
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fdbc6bbc1aa650800000000000000
+      internalID: 6244835424611463459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1269
+        width: 399
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb957bbd383d4c10800000000000000
+      internalID: 2039348044057910205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 871
+        width: 529
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cfa8c82cd886bf0800000000000000
+      internalID: -330858705890640880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 871
+        width: 221
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2f2fc0a4154ecc0800000000000000
+      internalID: -3682729216795544843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_6
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 876
+        width: 227
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb070c6be7eaa70800000000000000
+      internalID: 8840142441952624335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 857
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052cbe67768d2ace0800000000000000
+      internalID: -1395314995643039152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 531
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e445c903a476d650800000000000000
+      internalID: 6257316975870297319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 279
+        width: 515
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5641b13f0efee80800000000000000
+      internalID: -8147045866153941570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Purple Yellow SPTM Logo TanHoodie MockUp_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 630
+        width: 274
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc47d2969c36e90800000000000000
+      internalID: -7033556739451203718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Purple Yellow SPTM Logo TanHoodie MockUp_0: -6571289276539762004
+      Purple Yellow SPTM Logo TanHoodie MockUp_1: -3207570015791318593
+      Purple Yellow SPTM Logo TanHoodie MockUp_10: -7033556739451203718
+      Purple Yellow SPTM Logo TanHoodie MockUp_2: 6244835424611463459
+      Purple Yellow SPTM Logo TanHoodie MockUp_3: 2039348044057910205
+      Purple Yellow SPTM Logo TanHoodie MockUp_4: -330858705890640880
+      Purple Yellow SPTM Logo TanHoodie MockUp_5: -3682729216795544843
+      Purple Yellow SPTM Logo TanHoodie MockUp_6: 8840142441952624335
+      Purple Yellow SPTM Logo TanHoodie MockUp_7: -1395314995643039152
+      Purple Yellow SPTM Logo TanHoodie MockUp_8: 6257316975870297319
+      Purple Yellow SPTM Logo TanHoodie MockUp_9: -8147045866153941570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

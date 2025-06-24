@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: d85d3225e80016245bd01bf8b7927cf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2853674114486054027
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_0
+  - first:
+      213: -2722640374696697689
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_1
+  - first:
+      213: 6382528391323381557
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_2
+  - first:
+      213: 2270327648437093108
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_3
+  - first:
+      213: -3175504522819436896
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_4
+  - first:
+      213: -443084284133543435
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_5
+  - first:
+      213: 7225021496611578889
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_6
+  - first:
+      213: 8523039265236004253
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_7
+  - first:
+      213: -8856013756407986174
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_8
+  - first:
+      213: 3408523543140160833
+    second: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1334
+        width: 394
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d4552386b568d0800000000000000
+      internalID: -2853674114486054027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 946
+        width: 430
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0211f110d373ad0800000000000000
+      internalID: -2722640374696697689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 939
+        width: 427
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fecad71cb439850800000000000000
+      internalID: 6382528391323381557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1269
+        width: 399
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f247d0b7f2d18f10800000000000000
+      internalID: 2270327648437093108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 871
+        width: 529
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae73b606775ee3d0800000000000000
+      internalID: -3175504522819436896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 871
+        width: 221
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f179aee039d9d9f0800000000000000
+      internalID: -443084284133543435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 876
+        width: 227
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904281875ce644460800000000000000
+      internalID: 7225021496611578889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 531
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d29130e0be74670800000000000000
+      internalID: 8523039265236004253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 279
+        width: 515
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2084453e86e191580800000000000000
+      internalID: -8856013756407986174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 630
+        width: 274
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145dc657a128d4f20800000000000000
+      internalID: 3408523543140160833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_0: -2853674114486054027
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_1: -2722640374696697689
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_2: 6382528391323381557
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_3: 2270327648437093108
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_4: -3175504522819436896
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_5: -443084284133543435
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_6: 7225021496611578889
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_7: 8523039265236004253
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_8: -8856013756407986174
+      WhitePurple SPTM Logo PurpleHoodie MockUp - Copy_9: 3408523543140160833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

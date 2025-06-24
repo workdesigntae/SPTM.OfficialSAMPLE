@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: a1f37772050009a47a0c2d3a2cf14427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2469221137359649194
+    second: Black SPTM Logo BlackHoodie MockUp_0
+  - first:
+      213: 5328307288487973838
+    second: Black SPTM Logo BlackHoodie MockUp_1
+  - first:
+      213: 1867470138657982877
+    second: Black SPTM Logo BlackHoodie MockUp_2
+  - first:
+      213: -1408165437330836019
+    second: Black SPTM Logo BlackHoodie MockUp_3
+  - first:
+      213: -2434022896893666862
+    second: Black SPTM Logo BlackHoodie MockUp_4
+  - first:
+      213: 4589654220686228767
+    second: Black SPTM Logo BlackHoodie MockUp_5
+  - first:
+      213: 1546758013633330264
+    second: Black SPTM Logo BlackHoodie MockUp_6
+  - first:
+      213: 650884849674682412
+    second: Black SPTM Logo BlackHoodie MockUp_7
+  - first:
+      213: -8062868215870109797
+    second: Black SPTM Logo BlackHoodie MockUp_8
+  - first:
+      213: 2897485220809906556
+    second: Black SPTM Logo BlackHoodie MockUp_9
+  - first:
+      213: 4663244093727136640
+    second: Black SPTM Logo BlackHoodie MockUp_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1334
+        width: 394
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9353cba8f644220800000000000000
+      internalID: 2469221137359649194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 946
+        width: 430
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec353709f33f1f940800000000000000
+      internalID: 5328307288487973838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_2
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 939
+        width: 427
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99cb5362369ae910800000000000000
+      internalID: 1867470138657982877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1269
+        width: 399
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b9eadef0357ce0800000000000000
+      internalID: -1408165437330836019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 871
+        width: 529
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d95c7f321d983ed0800000000000000
+      internalID: -2434022896893666862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 871
+        width: 221
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dffd9523ab1bf30800000000000000
+      internalID: 4589654220686228767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_6
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 876
+        width: 227
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c7a14e730377510800000000000000
+      internalID: 1546758013633330264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_7
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 857
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c200b8e7258680900800000000000000
+      internalID: 650884849674682412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 531
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97464a9310fa1090800000000000000
+      internalID: -8062868215870109797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 279
+        width: 515
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799150f47fe53820800000000000000
+      internalID: 2897485220809906556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black SPTM Logo BlackHoodie MockUp_10
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 630
+        width: 274
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5b8bdbcb27b040800000000000000
+      internalID: 4663244093727136640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black SPTM Logo BlackHoodie MockUp_0: 2469221137359649194
+      Black SPTM Logo BlackHoodie MockUp_1: 5328307288487973838
+      Black SPTM Logo BlackHoodie MockUp_10: 4663244093727136640
+      Black SPTM Logo BlackHoodie MockUp_2: 1867470138657982877
+      Black SPTM Logo BlackHoodie MockUp_3: -1408165437330836019
+      Black SPTM Logo BlackHoodie MockUp_4: -2434022896893666862
+      Black SPTM Logo BlackHoodie MockUp_5: 4589654220686228767
+      Black SPTM Logo BlackHoodie MockUp_6: 1546758013633330264
+      Black SPTM Logo BlackHoodie MockUp_7: 650884849674682412
+      Black SPTM Logo BlackHoodie MockUp_8: -8062868215870109797
+      Black SPTM Logo BlackHoodie MockUp_9: 2897485220809906556
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

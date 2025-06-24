@@ -1,0 +1,4 @@
+repository "SPTM.OfficialSAMPLE@workdesigntae@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,955 @@
+fileFormatVersion: 2
+guid: e0df03f5568f28240b3598ce42704972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1856952549656501934
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_0
+  - first:
+      213: 3827712400449042767
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_1
+  - first:
+      213: 1300750847096714073
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_2
+  - first:
+      213: 2601019443272307060
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_3
+  - first:
+      213: -2540656315131782686
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_4
+  - first:
+      213: 4893997819110165782
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_5
+  - first:
+      213: -5996052822399182532
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_6
+  - first:
+      213: -4806640308003795915
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_7
+  - first:
+      213: 8677249080481259002
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_8
+  - first:
+      213: 5915812942422324204
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_9
+  - first:
+      213: 4020745332041623572
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_10
+  - first:
+      213: 5025685980406445194
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_11
+  - first:
+      213: -4552694595181571670
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_12
+  - first:
+      213: -5873789419423817469
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_13
+  - first:
+      213: 5495294814953487300
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_14
+  - first:
+      213: 708035553553865436
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_15
+  - first:
+      213: 3531786659248508657
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_16
+  - first:
+      213: 5011934152200884420
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_17
+  - first:
+      213: 6641413082213699989
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_18
+  - first:
+      213: -7632514299560790119
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_19
+  - first:
+      213: 59340378354408968
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_20
+  - first:
+      213: 5377072947011777555
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_21
+  - first:
+      213: -8732251265276637698
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_22
+  - first:
+      213: 1729511894383755367
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_23
+  - first:
+      213: -3895933490464741112
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_24
+  - first:
+      213: 628032555021917215
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_25
+  - first:
+      213: 2038483359312016880
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_26
+  - first:
+      213: -5741796786216165238
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_27
+  - first:
+      213: -316151990155171826
+    second: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+      Message_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 69
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e7f0ae77ca36e0800000000000000
+      internalID: -1856952549656501934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 69
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f497f1be524ce1530800000000000000
+      internalID: 3827712400449042767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 69
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953fc76f0023d0210800000000000000
+      internalID: 1300750847096714073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4715122276da81420800000000000000
+      internalID: 2601019443272307060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 69
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99738da86cdbcd0800000000000000
+      internalID: -2540656315131782686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 69
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d09934619fae340800000000000000
+      internalID: 4893997819110165782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 69
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c391b6af9bdb9cca0800000000000000
+      internalID: -5996052822399182532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c0c564b126b4db0800000000000000
+      internalID: -4806640308003795915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 70
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd9bad8018cb6870800000000000000
+      internalID: 8677249080481259002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bdbe1780391250800000000000000
+      internalID: 5915812942422324204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 69
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418a6a0a39e8cc730800000000000000
+      internalID: 4020745332041623572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8479ce95c2deb540800000000000000
+      internalID: 5025685980406445194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 25
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19c5b036491d0c0800000000000000
+      internalID: -4552694595181571670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301abc9c4ab1c7ea0800000000000000
+      internalID: -5873789419423817469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 26
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb3955d485334c40800000000000000
+      internalID: 5495294814953487300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdadce9a59273d900800000000000000
+      internalID: 708035553553865436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 26
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe88fe114d630130800000000000000
+      internalID: 3531786659248508657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 25
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0159b9e87fd8540800000000000000
+      internalID: 5011934152200884420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591daf3b20a0b2c50800000000000000
+      internalID: 6641413082213699989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 25
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997f69feeacd31690800000000000000
+      internalID: -7632514299560790119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_20
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 25
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ed6ac72c1d2d000800000000000000
+      internalID: 59340378354408968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_21
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 25
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fff93b533f9a40800000000000000
+      internalID: 5377072947011777555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 21
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0bbb5dbfc0d680800000000000000
+      internalID: -8732251265276637698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 25
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7608e8397e5700810800000000000000
+      internalID: 1729511894383755367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_24
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 25
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8092d48c12ddee9c0800000000000000
+      internalID: -3895933490464741112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_25
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 21
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c5675084837b800800000000000000
+      internalID: 628032555021917215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 3
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f57650a0d52a4c10800000000000000
+      internalID: 2038483359312016880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802b198e3a0150b0800000000000000
+      internalID: -5741796786216165238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The
+        Message_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08a4c3a07dcc9bf0800000000000000
+      internalID: -316151990155171826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_0: -1856952549656501934
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_1: 3827712400449042767
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_10: 4020745332041623572
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_11: 5025685980406445194
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_12: -4552694595181571670
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_13: -5873789419423817469
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_14: 5495294814953487300
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_15: 708035553553865436
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_16: 3531786659248508657
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_17: 5011934152200884420
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_18: 6641413082213699989
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_19: -7632514299560790119
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_2: 1300750847096714073
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_20: 59340378354408968
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_21: 5377072947011777555
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_22: -8732251265276637698
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_23: 1729511894383755367
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_24: -3895933490464741112
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_25: 628032555021917215
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_26: 2038483359312016880
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_27: -5741796786216165238
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_28: -316151990155171826
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_3: 2601019443272307060
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_4: -2540656315131782686
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_5: 4893997819110165782
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_6: -5996052822399182532
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_7: -4806640308003795915
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_8: 8677249080481259002
+      Welcome To SPTMWORLD APP! The Official App For Stop Procrastinating The Message_9: 5915812942422324204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
