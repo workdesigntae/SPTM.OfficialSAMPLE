@@ -5,3 +5,27 @@ I created the SPTM AR Mobile App Demo as a passion project for my cousin’s clo
 The demo allows users to scan a garment or tag and view 3D motivational messages like “Stop Procrastinating The Message” displayed on 3D overlay virtual clothing. I used Unity, Vuforia, ARKit/ARCore, and designed the UI/UX in Figma to ensure the app felt clean, encouraging, and purpose-driven.
 
 This project brings together my technical training, creative design skills, and my personal mission to use technology as a tool for wellness, self-growth, and community empowerment.
+
+Tech Stack
+
+- Unity & C# – AR app development
+- Vuforia / ARKit / ARCore – Marker & environment tracking
+- Figma – UI/UX design
+- Android/iOS compatible – Demo-ready
+
+
+ Demo Preview
+ Google Drive: https://drive.google.com/drive/u/2/folders/1IKwk8P7Y08gG9hbxI6r-q7Qp_sfsAM5m
+
+Features
+
+- Garment/tag detection with 3D motivational overlays  
+- Figma-designed user interface  
+- Positive messaging for mental health encouragement  
+- Cross-platform AR (Android/iOS support built in Unity)
+
+  Contact
+
+- GitHub: [github.com/workdesigntae](https://github.com/workdesigntae)
+- Email: [workdesigntae@gmail.com]
+- LinkedIn: [linkedin.com/in/mon’taveon-johnson-7b2144200/]
