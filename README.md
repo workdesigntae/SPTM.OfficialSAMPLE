@@ -14,7 +14,7 @@ Tech Stack
 - Android/iOS compatible – Demo-ready
 
 
- Demo Preview
+ Demo Video Preview
  Google Drive: https://drive.google.com/drive/u/2/folders/1IKwk8P7Y08gG9hbxI6r-q7Qp_sfsAM5m
 
 Features
